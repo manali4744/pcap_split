@@ -1,0 +1,10 @@
+output_pcap_files/byte_all_file/
+output_pcap_files/byte_one/
+output_pcap_files/byte_range/
+output_pcap_files/packet_number_interval/
+output_pcap_files/packet_number_one/
+output_pcap_files/packet_number_range/
+output_pcap_files/time_minute/
+pcap_decrypted/
+env/
+*pyc
