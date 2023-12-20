@@ -28,6 +28,11 @@ Time-based Splitting:
 ```bash
 $ python3.8 -m venv env
 ```
+or
+```bash
+$ pip install virtualenv
+$ virtualenv -p python3.8 env 
+```
 
 # Activate the virtual environment
 ```bash
